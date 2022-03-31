@@ -16,8 +16,9 @@
 -🔭 I have a strong interest in AI and ML applications. 
 
 #### Visit some of my handmade product:
-- AI model deploy on Heroku webapp: 
-- AI model deploy on mobile device: download APK file [here](https://drive.google.com/drive/u/0/folders/1OYQzZsYmbEsgp-HvTyat0ncjurm3Ui7u) (need to download Expo Go application first)
+- Fruit classification model deploy on Heroku webapp: http://secret-earth-13582.herokuapp.com/
+- Dog/Cat classification model deploy on mobile device: download APK file [here](https://drive.google.com/drive/u/0/folders/1OYQzZsYmbEsgp-HvTyat0ncjurm3Ui7u) (need to download Expo Go application first)
+- Movie search system: clone [this repo](https://github.com/huavanson/Movie-search-system), in terminal run "python front_end.py" to show GUI
 ####
 -🥅 2022 Goals: Working on more DS Projects, NLP Projects
 
